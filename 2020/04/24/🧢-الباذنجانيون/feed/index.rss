@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	التعليقات على: 🧢 الباذنجانيون	</title>
+	<atom:link href="https://7seen.net/2020/04/24/%F0%9F%A7%A2-%D8%A7%D9%84%D8%A8%D8%A7%D8%B0%D9%86%D8%AC%D8%A7%D9%86%D9%8A%D9%88%D9%86/feed/" rel="self" type="application/rss+xml" />
+	<link>https://7seen.net/2020/04/24/%f0%9f%a7%a2-%d8%a7%d9%84%d8%a8%d8%a7%d8%b0%d9%86%d8%ac%d8%a7%d9%86%d9%8a%d9%88%d9%86/</link>
+	<description>مدونة 7 سين</description>
+	<lastBuildDate>Tue, 21 Apr 2020 02:36:30 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	التعليقات على: قصة المثل &#8211; حُط بالخُرج	</title>
+	<atom:link href="https://7seen.net/2020/04/07/%D9%82%D8%B5%D8%A9-%D8%A7%D9%84%D9%85%D8%AB%D9%84-%D8%AD%D9%8F%D8%B7-%D8%A8%D8%A7%D9%84%D8%AE%D9%8F%D8%B1%D8%AC/feed/" rel="self" type="application/rss+xml" />
+	<link>https://7seen.net/2020/04/07/%d9%82%d8%b5%d8%a9-%d8%a7%d9%84%d9%85%d8%ab%d9%84-%d8%ad%d9%8f%d8%b7-%d8%a8%d8%a7%d9%84%d8%ae%d9%8f%d8%b1%d8%ac/</link>
+	<description>مدونة 7 سين</description>
+	<lastBuildDate>Tue, 07 Apr 2020 04:36:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+</channel>
+</rss>

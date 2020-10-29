@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>الكمبيوتر والحاسوب &#8211; 7سين</title>
+	<atom:link href="https://7seen.net/category/%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D9%88%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8/feed/" rel="self" type="application/rss+xml" />
+	<link>https://7seen.net</link>
+	<description>مدونة 7 سين</description>
+	<lastBuildDate>Wed, 29 Apr 2020 06:36:47 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>https://7seen.net/wp-content/uploads/2020/03/cropped-logo-1-32x32.png</url>
+	<title>الكمبيوتر والحاسوب &#8211; 7سين</title>
+	<link>https://7seen.net</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177243681</site>	<item>
+		<title>ماهي اداة Nikto</title>
+		<link>https://7seen.net/2020/04/26/317/</link>
+					<comments>https://7seen.net/2020/04/26/317/#respond</comments>
+		
+		<dc:creator><![CDATA[معاذ السوادي]]></dc:creator>
+		<pubDate>Sun, 26 Apr 2020 04:38:30 +0000</pubDate>
+				<category><![CDATA[الكمبيوتر والحاسوب]]></category>
+		<category><![CDATA[تقنية]]></category>
+		<category><![CDATA[nikto]]></category>
+		<category><![CDATA[أمنية]]></category>
+		<category><![CDATA[حماية]]></category>
+		<guid isPermaLink="false">https://7seen.net/?p=317</guid>
+
+					<description><![CDATA[<p><img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg" class="attachment-thumbnail default-featured-img" alt="" srcset="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" />•‌‏ ماهي اداة Nikto وهي اداة مهمة لكل مختبر إختراق لتطبيقات الويب ‏ماهي اداة Nikto: هي أداة مفتوحة المصدر أي أنها مجانبة مكتوبة بلغة perl و تستخدم أيضا بما يسمى بتقييم نقاط الضعف ، هي من احد الادوات المهمة جدا لاي مطور تطبيقات الويب او اي مدير خوادم الويب تقوم هذه الأداة بفحص خوادم الويب [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/26/317/">ماهي اداة Nikto</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg" class="attachment-thumbnail default-featured-img" alt="" srcset="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" />
+
+•‌‏ ماهي اداة Nikto
+وهي اداة مهمة لكل مختبر إختراق لتطبيقات الويب
+‏ماهي اداة Nikto: هي أداة مفتوحة المصدر أي أنها مجانبة مكتوبة بلغة perl و تستخدم أيضا بما يسمى بتقييم نقاط الضعف ، هي من احد الادوات المهمة جدا لاي مطور تطبيقات الويب او اي مدير خوادم الويب تقوم هذه الأداة بفحص خوادم الويب من الثغرات الأمنية و تقوم أيضاً بفحص البرمجيات التي تعمل على هذه البرامج فيما اذا كانت هذه البرمجيات منتهية الصلاحية وغيرها من نقاط الضعف بالموقع.
+
+انظمة تشغيل تعمل عليها اداة Nikto:
+
+1- Windows
+2- Linux
+3- Unix
+4- Mac OSX‏
+
+
+
+
+
+وظائف الأداة حسب موقعها
+
+
+
+
+<ul>
+ 	<li>الكشف عن الإعدادات الغير مضبوطة في الخادم.</li>
+ 	<li>الكشف عن الملفات والبرامج الإفتراضية.</li>
+ 	<li>الكشف عن الملفات والبرمجيات الغير آمنة.</li>
+ 	<li>الكشف عن الخوادم والبرمجيات المنتهية.</li>
+</ul>
+
+
+
+
+يمكنك تثبيت الأداة باتباع التعليات في GitHub :
+<a href="https://github.com/sullo/nikto">https://github.com/sullo/nikto</a>
+
+‏مميزات اداة Nikto:
+1- تقوم بفحص المواقع على العديد من المنافذ ( Ports ).
+2- تحفظ تقارير بانواع مختلفه (html, CSV و XML)
+وغيرها من المزايا تكتشها اثناء استخدام الاداة
+
+
+
+
+
+رابط توثيق الأداة: <a href="https://cirt.net/nikto2-docs/">https://cirt.net/nikto2-docs/</a>
+
+
+
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/26/317/">ماهي اداة Nikto</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://7seen.net/2020/04/26/317/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">317</post-id>	</item>
+		<item>
+		<title>الذكاء الإصطناعي في مواجهة فيروس كورونا المستجد</title>
+		<link>https://7seen.net/2020/04/21/%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%81%d9%8a-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d9%83%d9%88%d8%b1%d9%88/</link>
+					<comments>https://7seen.net/2020/04/21/%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%81%d9%8a-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d9%83%d9%88%d8%b1%d9%88/#respond</comments>
+		
+		<dc:creator><![CDATA[معاذ السوادي]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2020 14:25:01 +0000</pubDate>
+				<category><![CDATA[الكمبيوتر والحاسوب]]></category>
+		<category><![CDATA[تقنية]]></category>
+		<category><![CDATA[مقالات]]></category>
+		<category><![CDATA[الذكاء الإصطناعي، كورونا، فيروس كورونا، فيروس كورونا المستجد، كورونا المستجد، كوفيد-19]]></category>
+		<guid isPermaLink="false">https://7seen.net/?p=321</guid>
+
+					<description><![CDATA[<p><img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg" class="attachment-thumbnail default-featured-img" alt="" srcset="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" />بينما تتدافع الحكومات والمنظمات الصحية لاحتواء انتشار الفيروس، فقد أثبتت تقنيات الذكاء الاصطناعي الحالية أنها مفيدة جدًا في تتبع انتشار الفيروس وتشخيص المرضى وتطهير المناطق وتسريع عملية العثور على لقاح فعال.حتى الآن، تُعتبر علوم البيانات، والتعلم الآلي اثنين من الأسلحة الأكثر فعالية لدينا في مكافحة انتشار الفيروس، وهما من ساعد الصين في تحجيم انتشار الفيروس [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/21/%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%81%d9%8a-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d9%83%d9%88%d8%b1%d9%88/">الذكاء الإصطناعي في مواجهة فيروس كورونا المستجد</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg" class="attachment-thumbnail default-featured-img" alt="" srcset="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" />
+<p>بينما تتدافع الحكومات والمنظمات الصحية لاحتواء انتشار الفيروس، فقد أثبتت تقنيات الذكاء الاصطناعي الحالية أنها مفيدة جدًا في تتبع انتشار الفيروس وتشخيص المرضى وتطهير المناطق وتسريع عملية العثور على لقاح فعال.<br>حتى الآن، تُعتبر علوم البيانات، والتعلم الآلي اثنين من الأسلحة الأكثر فعالية لدينا في مكافحة انتشار الفيروس، وهما من ساعد الصين في تحجيم انتشار الفيروس في وقت قياسي من خلال التالي:<br>&#8211; تتبع انتشار فيروس كورونا من خلال التعلم الآلي من خلال علامات على مجموعة من حالات التهاب رئوي غير عادية تحدث حول سوق في مدينة ووهان بالصين.<br>&#8211; استخدام الذكاء الاصطناعي لتشخيص المصابين بفيروس كورونا فقد قامت شركة بايدو الصينية بتوفير كاميرات تعتمد على الرؤية الحاسوبية، وأجهزة استشعار بالأشعة تحت الحمراء للتنبؤ بدرجات حرارة الأشخاص في المناطق العامة.<br>&#8211; الاعتماد على الروبوتات في عمليات التعقيم والتعامل مع المرضى<br>&#8211; يساعد الذكاء الاصطناعي في تسريع إيجاد لقاح فتطوير العقاقير والأدوية الجديدة عملية طويلة ومكلفة للغاية، لا يتناسب مع استمرار انتشار الفيروس بوتيرة متسارعة. ولحسن الحظ يمكن للذكاء الاصطناعي أن يساعد في تسريع العملية. حيث أعلن مختبر DeepMind لأبحاث الذكاء الاصطناعي – الذي استحوذت عليه جوجل في عام 2014 – أنه استخدم التعلم العميق للعثور على معلومات جديدة حول بنية البروتينات المرتبطة بفيروس COVID-19.فيمكن الوصول إلى أدلة مهمة لصيغة لقاح فعال من خلال فهم تراكيب بروتين الفيروس، ويعتبر مختبر DeepMind واحد من العديد من المنظمات التي تشارك في السباق لإيجاد لقاح فعال لفيروس كورونا.<br>وقد استخدم الباحثون الحاسب العملاق التابع للشركة المُعروف باسم (سومت Summit) لفحص 8 آلاف مركب هي أكثر احتمالًا أن ترتبط بالبروتين الرئيسي في فيروس كورونا وتجعله غير قادر على الالتصاق بالخلايا المضيفة في جسم الإنسان، وقد حددوا 77 مركبًا يمكن الآن اختبارها تجريبيًا بهدف تطوير لقاح فعال للفيروس.</p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/21/%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%81%d9%8a-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d9%83%d9%88%d8%b1%d9%88/">الذكاء الإصطناعي في مواجهة فيروس كورونا المستجد</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://7seen.net/2020/04/21/%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d9%81%d9%8a-%d9%85%d9%88%d8%a7%d8%ac%d9%87%d8%a9-%d9%81%d9%8a%d8%b1%d9%88%d8%b3-%d9%83%d9%88%d8%b1%d9%88/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">321</post-id>	</item>
+		<item>
+		<title>إيدج الجديد من مايكروسوفت</title>
+		<link>https://7seen.net/2020/04/21/%d8%a5%d9%8a%d8%af%d8%ac-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d9%86-%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa/</link>
+					<comments>https://7seen.net/2020/04/21/%d8%a5%d9%8a%d8%af%d8%ac-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d9%86-%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa/#respond</comments>
+		
+		<dc:creator><![CDATA[معاذ السوادي]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2020 14:19:27 +0000</pubDate>
+				<category><![CDATA[الكمبيوتر والحاسوب]]></category>
+		<category><![CDATA[تقنية]]></category>
+		<category><![CDATA[متصفح، تقنية]]></category>
+		<guid isPermaLink="false">https://7seen.net/?p=319</guid>
+
+					<description><![CDATA[<p><img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg" class="attachment-thumbnail default-featured-img" alt="" srcset="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" />منذ إطلاقه قبل ثلاثة أشهر، بدأ متصفح مايكروسوفت إيدج الجديد بحصد النجاح تدريجياً وأثبت أنه يمكن اعتماده كمتصفح أساسي خاصة لمن كان يستخدم كروم، واليوم الأرقام تؤكد ذلك حيث أصبح في المركز الثاني في سباق المتصفحات.بحسب بيانات موقع NetMarketShare فإن الحصة السوقية لمتصفح إيدج في شهر مارس وصلت إلى 7.6% متفوقة على موزيلا فايرفوكس الذي [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/21/%d8%a5%d9%8a%d8%af%d8%ac-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d9%86-%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa/">إيدج الجديد من مايكروسوفت</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg" class="attachment-thumbnail default-featured-img" alt="" srcset="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" />
+<p>منذ إطلاقه قبل ثلاثة أشهر، بدأ متصفح مايكروسوفت إيدج الجديد بحصد النجاح تدريجياً وأثبت أنه يمكن اعتماده كمتصفح أساسي خاصة لمن كان يستخدم كروم، واليوم الأرقام تؤكد ذلك حيث أصبح في المركز الثاني في سباق المتصفحات.<br>بحسب بيانات موقع NetMarketShare فإن الحصة السوقية لمتصفح إيدج في شهر مارس وصلت إلى 7.6% متفوقة على موزيلا فايرفوكس الذي كانت حصته 7.2%، وبالطبع يبقى متصفح كروم في الصدارة بحصة 68.5%.<br>أسباب نجاح إيدج معروفة، فهو المتصفح الافتراضي في ويندوز النظام الأكثر شعبية حول العالم، كما أن النسخة الجديدة المبنية على كروميوم جاءت بتحسينات كبيرة منها تخفيف استهلاك الذاكرة العشوائية وحتى دعم تنزيل إضافات متصفح كروم نفسه، كما يمكنه استيراد كل بياناتك من كروم.<br>بهذا يحاول إيدج مسح السمعة السيئة للمتصفح القديم أو حتى انترنت اكسبلورر الذي كان معروفاً عنه بأنه المتصفح الذي يستخدمه الناس فقط لتنزيل متصفح آخر!.</p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/21/%d8%a5%d9%8a%d8%af%d8%ac-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d9%86-%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa/">إيدج الجديد من مايكروسوفت</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://7seen.net/2020/04/21/%d8%a5%d9%8a%d8%af%d8%ac-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d9%86-%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">319</post-id>	</item>
+	</channel>
+</rss>

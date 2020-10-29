@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	التعليقات على: تسجل 37 وفاة جديدة و3288 إصابة جديدة بكورونا في السعودية	</title>
+	<atom:link href="https://7seen.net/2020/06/10/%D8%AA%D8%B3%D8%AC%D9%84-37-%D9%88%D9%81%D8%A7%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%883288-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D9%83%D9%88%D8%B1%D9%88%D9%86-3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://7seen.net/2020/06/10/%d8%aa%d8%b3%d8%ac%d9%84-37-%d9%88%d9%81%d8%a7%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%883288-%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d9%83%d9%88%d8%b1%d9%88%d9%86-3/</link>
+	<description>مدونة 7 سين</description>
+	<lastBuildDate>Wed, 10 Jun 2020 04:43:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+</channel>
+</rss>

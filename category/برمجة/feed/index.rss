@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>برمجة &#8211; 7سين</title>
+	<atom:link href="https://7seen.net/category/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9/feed/" rel="self" type="application/rss+xml" />
+	<link>https://7seen.net</link>
+	<description>مدونة 7 سين</description>
+	<lastBuildDate>Fri, 05 Jun 2020 06:09:45 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>https://7seen.net/wp-content/uploads/2020/03/cropped-logo-1-32x32.png</url>
+	<title>برمجة &#8211; 7سين</title>
+	<link>https://7seen.net</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177243681</site>	<item>
+		<title>طريقة لتجنب بناء استمارة (form) من أجل زرار الحذف</title>
+		<link>https://7seen.net/2020/04/29/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d9%84%d8%aa%d8%ac%d9%86%d8%a8-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-form-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d8%b2%d8%b1%d8%a7%d8%b1-%d8%a7/</link>
+					<comments>https://7seen.net/2020/04/29/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d9%84%d8%aa%d8%ac%d9%86%d8%a8-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-form-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d8%b2%d8%b1%d8%a7%d8%b1-%d8%a7/#comments</comments>
+		
+		<dc:creator><![CDATA[معاذ السوادي]]></dc:creator>
+		<pubDate>Wed, 29 Apr 2020 07:17:12 +0000</pubDate>
+				<category><![CDATA[Laravel]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[برمجة]]></category>
+		<category><![CDATA[برمجة وتصميم مواقع]]></category>
+		<category><![CDATA[laravel]]></category>
+		<category><![CDATA[لارافيل]]></category>
+		<guid isPermaLink="false">https://7seen.net/?p=341</guid>
+
+					<description><![CDATA[<p><img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/04/laravel-articles-avoid-delete-form-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://7seen.net/wp-content/uploads/2020/04/laravel-articles-avoid-delete-form-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/04/laravel-articles-avoid-delete-form-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" />هناك شيء واحد مزعج في مفهوم Laravel RESTful &#8211; إذا كنت تريد أن يكون لديك ارتباطات خاصة بالتحرير أو الحذف في الجداول الخاصة بك، فإن عملية التحرير تتم بسهولة وذلك عن طريق رابط URL خاص بك سجل (record)، ولكن ماذا عن الحذف Delete. يجب عليك إنشاء الإستمارة أو النموذج (form) بالكامل، فهل من الممكن تجنب [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/29/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d9%84%d8%aa%d8%ac%d9%86%d8%a8-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-form-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d8%b2%d8%b1%d8%a7%d8%b1-%d8%a7/">طريقة لتجنب بناء استمارة (form) من أجل زرار الحذف</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/04/laravel-articles-avoid-delete-form-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://7seen.net/wp-content/uploads/2020/04/laravel-articles-avoid-delete-form-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/04/laravel-articles-avoid-delete-form-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /><div class="td-post-header"></div>
+<div class="td-post-content">
+<p><span dir="rtl"><span class="">هناك شيء واحد مزعج في مفهوم Laravel RESTful &#8211; إذا كنت تريد أن يكون لديك ارتباطات خاصة بالتحرير أو الحذف في الجداول الخاصة بك، فإن عملية التحرير تتم بسهولة وذلك عن طريق رابط URL خاص بك سجل (record)، ولكن ماذا عن الحذف Delete.<br />
+</span></span><span dir="rtl"><span class=""> يجب عليك إنشاء الإستمارة أو النموذج (form) بالكامل، فهل من الممكن تجنب عمل نموذخ لأجل عملية الحذف؟<br />
+في هذا المقال سنتعرف على طريقة لتجنب بناء استمارة أو نموذج من أجل زرار الحذف.</span></span></p>
+<p>لعلك شاهدت أو استخدمت هذه الطريقة في عمليتي الحذف والتعديل:</p>
+<p>&nbsp;</p>
+<div class="wp-block-codemirror-blocks code-block ">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;htmlmixed&quot;,&quot;mime&quot;:&quot;text/html&quot;,&quot;theme&quot;:&quot;oceanic-next&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:false,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;&quot;}">&lt;a href="{{ url('items/'.$row-&gt;id.'/edit') }}"&gt;Edit&lt;/a&gt;</pre>
+</div>
+<p>&nbsp;</p>
+<div class="wp-block-codemirror-blocks code-block ">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;htmlmixed&quot;,&quot;mime&quot;:&quot;text/html&quot;,&quot;theme&quot;:&quot;oceanic-next&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:false,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;&quot;}">{{ Form::open(['route' =&gt; ['item.delete', $row-&gt;id], 'method' =&gt; 'delete']) }}
+&lt;button type="submit"&gt;Delete&lt;/button&gt;
+{{ Form::close() }}</pre>
+</div>
+<p>ستجد أن في الطريقة السابقة استخدمنا النموذج الخاص بعملية الحذف ، ولكن ما الحاجة إلى بناء نموذج كامل من أجل عملية الحذف؟ هل هناك طريقة لجعل عملية الحذف بسهولة التعديل؟</p>
+<p>الحاجة لبناء نموذج خاص بعملية الحذف تكمن في حماية بياناتك لأن في إطار العمل لارافيل يوجد حماية من هجمات CSRF ولأهمية الحفاظ على البيانات فإنك بحاجة لبناء نموذج للحذف.</p>
+<p>تشعر بالإحباط! لا تقلق هناك طريقة تساعدك على تجنب بناء نموذج للحذف مع الحفاظ على حماية بياناتك، كل ما عليك هو استخدام هذا الكود المبني بجافاسكربت  <a href="https://gist.github.com/muath-ye/8ca894a8727f3347bae59edd3a88532a" target="_blank" rel="noopener">laravel.js</a> ففي هذا الكود طريقة الإستخدام كتالي:</p>
+<p>&nbsp;</p>
+<div class="wp-block-codemirror-blocks code-block ">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;htmlmixed&quot;,&quot;mime&quot;:&quot;text/html&quot;,&quot;theme&quot;:&quot;oceanic-next&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:false,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;&quot;}">&lt;!-- We want to send an HTTP DELETE request --&gt;
+&lt;a href="posts/2" data-method="delete"&gt;
+
+&lt;!-- Or, request confirmation in the process --&gt;
+&lt;a href="posts/2" data-method="delete" data-confirm="Are you sure?"&gt;</pre>
+</div>
+<p>في رأيي الشخصي بناء نموذج خاص يجعل أكوادك البرمجية أكثر قابلية للقراءة من قبل المطورين حديثي الإنظمام إلى مشروعك، وليست مشكلة إذا قمت بعمل تنسيقات css خاصة بنموذج الحذف ليبدو كهيئة زرار حذف.</p>
+</div>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/29/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d9%84%d8%aa%d8%ac%d9%86%d8%a8-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-form-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d8%b2%d8%b1%d8%a7%d8%b1-%d8%a7/">طريقة لتجنب بناء استمارة (form) من أجل زرار الحذف</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://7seen.net/2020/04/29/%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d9%84%d8%aa%d8%ac%d9%86%d8%a8-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-form-%d9%85%d9%86-%d8%a3%d8%ac%d9%84-%d8%b2%d8%b1%d8%a7%d8%b1-%d8%a7/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">341</post-id>	</item>
+		<item>
+		<title>كيفية بناء استمارة (form) يدوياً</title>
+		<link>https://7seen.net/2020/04/13/%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-form-%d9%8a%d8%af%d9%88%d9%8a%d8%a7%d9%8b/</link>
+					<comments>https://7seen.net/2020/04/13/%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-form-%d9%8a%d8%af%d9%88%d9%8a%d8%a7%d9%8b/#comments</comments>
+		
+		<dc:creator><![CDATA[معاذ السوادي]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2020 05:43:04 +0000</pubDate>
+				<category><![CDATA[Laravel]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[برمجة]]></category>
+		<category><![CDATA[laravel]]></category>
+		<category><![CDATA[لارافيل]]></category>
+		<guid isPermaLink="false">https://7seen.net/?p=277</guid>
+
+					<description><![CDATA[<p><img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/04/بناء-استمارة-يدويا-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://7seen.net/wp-content/uploads/2020/04/بناء-استمارة-يدويا-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/04/بناء-استمارة-يدويا-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" />المتحكم controller في لارافيل laravel لديه آلية جيدة لبناء عمليات REASful، لكن لايوجد عمليات PUT/PATCH/DELETE للتعامل مع قاعدة البيانات، كل ما هو متوفر في الاستمارة (form) هو عمليتين فقط POST/GET لكن ماذا لو أردت بناء استمارة (form) يدوياً دون الاستعانة بدوال لارافيل مثل {{ Form::create([‘method’ =&#62; ‘PUT’]) }} كل ما عليك عمله هو التالي &#60;form [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/13/%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-form-%d9%8a%d8%af%d9%88%d9%8a%d8%a7%d9%8b/">كيفية بناء استمارة (form) يدوياً</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/04/بناء-استمارة-يدويا-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://7seen.net/wp-content/uploads/2020/04/بناء-استمارة-يدويا-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/04/بناء-استمارة-يدويا-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /><p>المتحكم controller في لارافيل laravel لديه آلية جيدة لبناء عمليات REASful، لكن لايوجد عمليات PUT/PATCH/DELETE للتعامل مع قاعدة البيانات، كل ما هو متوفر في الاستمارة (form) هو عمليتين فقط POST/GET</p>
+<p>لكن ماذا لو أردت بناء استمارة (form) يدوياً دون الاستعانة بدوال لارافيل مثل</p>
+<div class="wp-block-codemirror-blocks code-block ">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;php&quot;,&quot;mime&quot;:&quot;text/x-php&quot;,&quot;theme&quot;:&quot;oceanic-next&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:false,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;&quot;}">{{ Form::create([‘method’ =&gt; ‘PUT’]) }}</pre>
+</div>
+<p>كل ما عليك عمله هو التالي</p>
+<div class="wp-block-codemirror-blocks code-block ">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;htmlmixed&quot;,&quot;mime&quot;:&quot;text/html&quot;,&quot;theme&quot;:&quot;oceanic-next&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:false,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;&quot;}">&lt;form accept-charset="UTF-8" action="" method="POST"&gt;
+&lt;input name="_method" type="hidden" value="PUT"&gt;
+&lt;/form&gt;</pre>
+</div>
+<p>نعم إنه كذلك فلارافيل تكون الحقول المخفية باسم <code>_method</code> والتحقق من نوع العملية يكون عند ارسال الاستمارة (form submitting) ما يعني توجيه العملية إلى الدالة المناسبة في المتحكم</p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/13/%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-form-%d9%8a%d8%af%d9%88%d9%8a%d8%a7%d9%8b/">كيفية بناء استمارة (form) يدوياً</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://7seen.net/2020/04/13/%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a8%d9%86%d8%a7%d8%a1-%d8%a7%d8%b3%d8%aa%d9%85%d8%a7%d8%b1%d8%a9-form-%d9%8a%d8%af%d9%88%d9%8a%d8%a7%d9%8b/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">277</post-id>	</item>
+		<item>
+		<title>لارافيل: ماهي ومن أين أتعلمها؟</title>
+		<link>https://7seen.net/2020/03/27/%d9%84%d8%a7%d8%b1%d8%a7%d9%81%d9%8a%d9%84-%d9%85%d8%a7%d9%87%d9%8a-%d9%88%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%a3%d8%aa%d8%b9%d9%84%d9%85%d9%87%d8%a7%d8%9f/</link>
+					<comments>https://7seen.net/2020/03/27/%d9%84%d8%a7%d8%b1%d8%a7%d9%81%d9%8a%d9%84-%d9%85%d8%a7%d9%87%d9%8a-%d9%88%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%a3%d8%aa%d8%b9%d9%84%d9%85%d9%87%d8%a7%d8%9f/#comments</comments>
+		
+		<dc:creator><![CDATA[معاذ السوادي]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2020 03:06:20 +0000</pubDate>
+				<category><![CDATA[Laravel]]></category>
+		<category><![CDATA[PHP]]></category>
+		<category><![CDATA[برمجة]]></category>
+		<category><![CDATA[مقالات]]></category>
+		<guid isPermaLink="false">http://7seen.net/?p=180</guid>
+
+					<description><![CDATA[<p><img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/03/500_F_291483743_yCtwnkCTWWqEefZFy2XGdUhWqpaxEtd2-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://7seen.net/wp-content/uploads/2020/03/500_F_291483743_yCtwnkCTWWqEefZFy2XGdUhWqpaxEtd2-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/03/500_F_291483743_yCtwnkCTWWqEefZFy2XGdUhWqpaxEtd2-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" />أوسع دليل لتعلم لارافيل والتعرف من أين تبدأ، أذا لم تبدأ في تعلم إطار العمل لارافيل إن كنت تبحث عن طريقة تُسهل عليك بناء موقعك الخاص، فأنت في هذا المقال ستجد مقدمة كاملة عن لارافيل أو ما يسمى بإطار العمل لارافيل Laravel Framework، لا تقلق فلارافيل أبسط مما تتوقع وسأرشدك على أهم النقاط التي ستمكنك [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/03/27/%d9%84%d8%a7%d8%b1%d8%a7%d9%81%d9%8a%d9%84-%d9%85%d8%a7%d9%87%d9%8a-%d9%88%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%a3%d8%aa%d8%b9%d9%84%d9%85%d9%87%d8%a7%d8%9f/">لارافيل: ماهي ومن أين أتعلمها؟</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/03/500_F_291483743_yCtwnkCTWWqEefZFy2XGdUhWqpaxEtd2-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="https://7seen.net/wp-content/uploads/2020/03/500_F_291483743_yCtwnkCTWWqEefZFy2XGdUhWqpaxEtd2-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/03/500_F_291483743_yCtwnkCTWWqEefZFy2XGdUhWqpaxEtd2-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" /><h2><strong>أوسع دليل لتعلم لارافيل والتعرف من أين تبدأ، أذا لم تبدأ في تعلم إطار العمل لارافيل</strong></h2>
+<p>إن كنت تبحث عن طريقة تُسهل عليك بناء موقعك الخاص، فأنت في هذا المقال ستجد مقدمة كاملة عن لارافيل أو ما يسمى بإطار العمل لارافيل Laravel Framework، لا تقلق فلارافيل أبسط مما تتوقع وسأرشدك على أهم النقاط التي ستمكنك من بناء موقع ويب متكامل في مدونة ٧سين بهذا المنشور ومنشورات قادمة</p>
+<p>لذا ماهي لارافيل Laravel</p>
+<p>لارافيل هي إطار عمل يسمح ببناء مواقع الإنترنت بسرعة وسهولة فهي توفر &#8211; دعنا نقول &#8211; الهيكل العظمي لتطبيق الويب، فكل ماعليك هي تخصيص شكل وهيئة موقعك الإلكتروني دون الحاجة لبناء كل شيء من الصفر.</p>
+<p>فلارافيل تحتوي وتسهل جميع العمليات والمهام التي يحتاجها أي موقع ويب إلكتروني، فعلى سبيل المثال:</p>
+<p>&#8211; نظام تسجيل الدخول والتسجيل في الموقع وتأكيد إيميلات المسجلين في الموقع</p>
+<p>&#8211; إدارة الكعكات cookies والجلسات sessions جاهز كاملاً</p>
+<p>&#8211; كتابة أكواد HTML بسهولة ولذلك لتوفر blade templating engine</p>
+<p>&#8211; سهولة ربط والتعامل مع قاعدة البيانات دون الحاجة لكتابة استعلامات SQL أو الخوف من ثغرات sql ejection، وذلك بفضل Laravel Eloquent</p>
+<p>كل هذه الأدوات وأكثر يمكن كتابتها بسهولة جداً وبطريقة مفهومة: كالتالي</p>
+<p>$playlists = $request-&gt;user()-&gt;playlists()-&gt;all()</p>
+<p>فالمتغير $playlist سيتضمن كل قوائم التشغيل الخاصة بالمستخدم الذي يستخدم موقعك الإلكتروني بعد تسجيل الدخول، لاحظ أننا ببساطة جلبنا قوائم التشغيل دون الحاجة إلى تعقيدات sql ودوال الربط بقاعدة البيانات.</p>
+<p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4367398317535354" data-ad-slot="5690354610"></ins><br />
+<script><br />
+     (adsbygoogle = window.adsbygoogle || []).push({});<br />
+</script><br />
+لم تفهم ما هي لارافيل بعد!</p>
+<p>إذاً تخيل معي أنك تُريد باباً خشبياً لمنزلك، فبدلاً من الذهاب إلى الغابة وقطع الأشجار ثم قطعها و نحتها لتبدوا جميلة وبعد ذلك تركيب تلك القطع ببعضا للحصول على باب منزلك، فبدلاً من هذا كله إذهب إلى النجار وهو سيطلب من شكل وأبعاد الباب وسينجزه بسرعة وإتقان، فكذلك إطار العمل لارافيل Laravel Framework يطلب منك اسم قاعدة البيانات و يعطيك الإمكانية لبناء واجهات موقعك وربطها بقاعدة البيانات بسهول ويسر.</p>
+<p>حسناً من أين تبدأ</p>
+<p>أولا قم بتنصيب بيئة تطوير مواقع الإنترنت</p>
+<p>ثانياً قم باختيار محرر الأكواد المفضل لك، يوجد منها المدفوع كمثل phpstorm, Sublime text والمجاني مثل visual studio code, atom</p>
+<p><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><br />
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4367398317535354" data-ad-slot="2625090030"></ins><br />
+<script><br />
+     (adsbygoogle = window.adsbygoogle || []).push({});<br />
+</script><br />
+هل يوجد دليل للعمل بلارافيل</p>
+<p>نعم يوجد توثيق رائع laravel.com تستطيع أن تلم بقدرات إطار العمل لارافيل من خلال العناوين في التوثيق laravel documentation.</p>
+<p>هل يوجد دورات تعليمية على الإنترنت</p>
+<p>نعم يوجد الكثير منها فهناك laracasts.com udemy Lynda.com وغيرها كثير</p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/03/27/%d9%84%d8%a7%d8%b1%d8%a7%d9%81%d9%8a%d9%84-%d9%85%d8%a7%d9%87%d9%8a-%d9%88%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%a3%d8%aa%d8%b9%d9%84%d9%85%d9%87%d8%a7%d8%9f/">لارافيل: ماهي ومن أين أتعلمها؟</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://7seen.net/2020/03/27/%d9%84%d8%a7%d8%b1%d8%a7%d9%81%d9%8a%d9%84-%d9%85%d8%a7%d9%87%d9%8a-%d9%88%d9%85%d9%86-%d8%a3%d9%8a%d9%86-%d8%a3%d8%aa%d8%b9%d9%84%d9%85%d9%87%d8%a7%d8%9f/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">180</post-id>	</item>
+	</channel>
+</rss>

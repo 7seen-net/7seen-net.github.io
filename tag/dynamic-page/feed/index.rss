@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>dynamic page &#8211; 7سين</title>
+	<atom:link href="https://7seen.net/tag/dynamic-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://7seen.net</link>
+	<description>مدونة 7 سين</description>
+	<lastBuildDate>Tue, 21 Apr 2020 04:24:17 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>https://7seen.net/wp-content/uploads/2020/03/cropped-logo-1-32x32.png</url>
+	<title>dynamic page &#8211; 7سين</title>
+	<link>https://7seen.net</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177243681</site>	<item>
+		<title>الفرق بين الصفحات Static و dynamic</title>
+		<link>https://7seen.net/2020/04/21/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%ad%d8%a7%d8%aa-static-%d9%88-dynamic/</link>
+					<comments>https://7seen.net/2020/04/21/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%ad%d8%a7%d8%aa-static-%d9%88-dynamic/#respond</comments>
+		
+		<dc:creator><![CDATA[معاذ السوادي]]></dc:creator>
+		<pubDate>Tue, 21 Apr 2020 04:23:02 +0000</pubDate>
+				<category><![CDATA[برمجة وتصميم مواقع]]></category>
+		<category><![CDATA[تقنية]]></category>
+		<category><![CDATA[مقالات]]></category>
+		<category><![CDATA[backend]]></category>
+		<category><![CDATA[dynamic page]]></category>
+		<category><![CDATA[frontend]]></category>
+		<category><![CDATA[static page]]></category>
+		<guid isPermaLink="false">https://7seen.net/?p=315</guid>
+
+					<description><![CDATA[<p><img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg" class="attachment-thumbnail default-featured-img" alt="" srcset="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" />الصفحات الثابتة static: هى صفحات لا يمكنك التفاعل او عمل اى action معها مثل عمل إعجاب، إعادة نشر، مشاركة أو كتابة تعليق. ‏شبه هذه الصفحات دائما بالشجرة الثابت لا يمكنها أن تتحرك ابدا. يتم إنشاء الصفحات الثابتة غالبا بلغة HTML و CSS وأحيانًا تضاف عليهم JavaScript وتسمى Front-end لعمل بعض اللمسات لتحسين ظهور الصفحة لدى [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/21/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%ad%d8%a7%d8%aa-static-%d9%88-dynamic/">الفرق بين الصفحات Static و dynamic</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<img width="150" height="150" src="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg" class="attachment-thumbnail default-featured-img" alt="" srcset="https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-150x150.jpg 150w, https://7seen.net/wp-content/uploads/2020/07/news-concept-landing-page_52683-18565-75x75.jpg 75w" sizes="(max-width: 150px) 100vw, 150px" />
+<p>الصفحات الثابتة static: هى صفحات لا يمكنك التفاعل او عمل اى action معها مثل عمل إعجاب، إعادة نشر، مشاركة أو كتابة تعليق. ‏شبه هذه الصفحات دائما بالشجرة الثابت لا يمكنها أن تتحرك ابدا. يتم إنشاء الصفحات الثابتة غالبا بلغة HTML و CSS وأحيانًا تضاف عليهم JavaScript وتسمى Front-end لعمل بعض اللمسات لتحسين ظهور الصفحة لدى المستخدم.‏<br><br>الصفحات التفاعلية dynamic: هى صفحات يمكنك التفاعل معها مثل الضغط على زر الإعجاب وكتابة التعليق وعمل المشاركات وكل شىء يمكنك التفاعل معه بعكس الصفحات الثابتة. شبه هذه الصفحات دائما الحيوانات فهي قادرة على التحرك من مكان لأخر و يمكن التفاعل معها. يتم إنشاء الصفحات التفاعلية عن طريق اللغات السابقة بالإضافة إلى بعض لغات البرمجة التفاعلية مثل php و python ..إلخ، والتي تسمى Back-End </p>
+<p>The post <a rel="nofollow" href="https://7seen.net/2020/04/21/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%ad%d8%a7%d8%aa-static-%d9%88-dynamic/">الفرق بين الصفحات Static و dynamic</a> appeared first on <a rel="nofollow" href="https://7seen.net">7سين</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://7seen.net/2020/04/21/%d8%a7%d9%84%d9%81%d8%b1%d9%82-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d8%b5%d9%81%d8%ad%d8%a7%d8%aa-static-%d9%88-dynamic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">315</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	التعليقات على: وجدوا ﺍﻟﺼّﻨﺪﻭﻕ ﻣﻤﺘﻠﺊ بفتواهم 🧢	</title>
+	<atom:link href="https://7seen.net/2020/04/17/%D9%88%D8%AC%D8%AF%D9%88%D8%A7-%EF%BA%8D%EF%BB%9F%EF%BA%BC%D9%91%EF%BB%A8%EF%BA%AA%EF%BB%AD%EF%BB%95-%EF%BB%A3%EF%BB%A4%EF%BA%98%EF%BB%A0%EF%BA%8A-%D8%A8%D9%81%D8%AA%D9%88%D8%A7%D9%87%D9%85/feed/" rel="self" type="application/rss+xml" />
+	<link>https://7seen.net/2020/04/17/%d9%88%d8%ac%d8%af%d9%88%d8%a7-%ef%ba%8d%ef%bb%9f%ef%ba%bc%d9%91%ef%bb%a8%ef%ba%aa%ef%bb%ad%ef%bb%95-%ef%bb%a3%ef%bb%a4%ef%ba%98%ef%bb%a0%ef%ba%8a-%d8%a8%d9%81%d8%aa%d9%88%d8%a7%d9%87%d9%85/</link>
+	<description>مدونة 7 سين</description>
+	<lastBuildDate>Fri, 17 Apr 2020 06:32:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+</channel>
+</rss>
